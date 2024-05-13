@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.nav-custom {
+    background-color: #880000!important;
+}
+
+#logo {
+    height: 8.68rem;
+    width: 7.93rem;
+    margin: 0 1.8rem;
+}
+
+#name-marca {
+    color: white;
+    margin: 0 0 0 15px;
+    font-size: 3.125rem;
+}
+
+.font-kreon {
+    font-family: "Kreon", serif;
+    font-weight: 400;
+}
+
+.font-ul-nav-custom {
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.ul-custom-nav {
+    --bs-nav-link-color: white;
+    --bs-nav-link-hover-color: rgb(85, 85, 85);
+    gap: 1.875rem;
+    margin-left: 3.4rem;
+    margin-right: 3.4rem !important;
+}
+
+.form-nav-custom {
+    gap: 15px;
+    margin-left: 3.4rem;
+    margin-right: 9rem;
+}
+
+#lupa-pesquisa {
+    height: 2rem;
+    width: 2rem;
+}
+
+.label-custom {
+    margin: auto;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+    color: white;
+}
+
+.perfil {
+    display: flex;
+    gap: 10px;
+    color: white;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 700;
+    margin-right: 1.25rem;
+}
+
+.dados-perfil span {
+    font-weight: 400;
+}
+
+#foto-perfil {
+    width: 5.9375rem;
+    height: 5.9375rem;
+}
+
+
+.input-custom-nav {
+    width: 340px;
+    font-family: "Inria Sans", sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+
+}
+
+.dados-perfil {
+    --bs-nav-link-hover-color: rgb(85, 85, 85);
+}
